@@ -5,7 +5,7 @@
     <SolidColorBrush x:Key="ProgressBarOuterTextForeground" Color="#F9F9F9" />
     <SolidColorBrush x:Key="ProgressBarRootBorderBrush" Color="Transparent" />
     <SolidColorBrush x:Key="ProgressBarPrimaryForeground" Color="{DynamicResource SystemAccentColor}" />
-    <SolidColorBrush x:Key="ProgressBarSecondaryForeground" Color="#40B4F3" />
+    <SolidColorBrush x:Key="ProgressBarSecondaryForeground" Color="#{DynamicResource SystemAccentColorLight1}" />
     <SolidColorBrush x:Key="ProgressBarTertiaryForeground" Color="#888D92" />
     <SolidColorBrush x:Key="ProgressBarSuccessForeground" Color="#5DC264" />
     <SolidColorBrush x:Key="ProgressBarWarningForeground" Color="#FFAE43" />

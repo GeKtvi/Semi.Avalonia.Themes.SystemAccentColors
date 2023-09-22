@@ -13,7 +13,7 @@
     <SolidColorBrush x:Key="LabelTagLightBlueForeground" Color="#D4ECFF" />
     <SolidColorBrush x:Key="LabelTagLightBlueBackground" Opacity="0.15" Color="{DynamicResource SystemAccentColor}" />
     <SolidColorBrush x:Key="LabelTagLightLightBlueForeground" Color="#CEEEFC" />
-    <SolidColorBrush x:Key="LabelTagLightLightBlueBackground" Opacity="0.15" Color="#40B4F3" />
+    <SolidColorBrush x:Key="LabelTagLightLightBlueBackground" Opacity="0.15" Color="#{DynamicResource SystemAccentColorLight1}" />
     <SolidColorBrush x:Key="LabelTagLightCyanForeground" Color="#C6EFF1" />
     <SolidColorBrush x:Key="LabelTagLightCyanBackground" Opacity="0.15" Color="#38BBC6" />
     <SolidColorBrush x:Key="LabelTagLightTealForeground" Color="#C4F0E8" />
@@ -49,7 +49,7 @@
     <SolidColorBrush x:Key="LabelTagGhostBlueBorderBrush" Color="#2990FF" />
     <SolidColorBrush x:Key="LabelTagGhostBlueForeground" Color="{DynamicResource SystemAccentColor}" />
     <SolidColorBrush x:Key="LabelTagGhostLightBlueBorderBrush" Color="#139FF0" />
-    <SolidColorBrush x:Key="LabelTagGhostLightBlueForeground" Color="#40B4F3" />
+    <SolidColorBrush x:Key="LabelTagGhostLightBlueForeground" Color="#{DynamicResource SystemAccentColorLight1}" />
     <SolidColorBrush x:Key="LabelTagGhostCyanBorderBrush" Color="#13A8B8" />
     <SolidColorBrush x:Key="LabelTagGhostCyanForeground" Color="#38BBC6" />
     <SolidColorBrush x:Key="LabelTagGhostTealBorderBrush" Color="#0EB3A1" />
@@ -79,7 +79,7 @@
     <SolidColorBrush x:Key="LabelTagSolidVioletBackground" Color="#8865D4" />
     <SolidColorBrush x:Key="LabelTagSolidIndigoBackground" Color="#5F71C5" />
     <SolidColorBrush x:Key="LabelTagSolidBlueBackground" Color="{DynamicResource SystemAccentColor}" />
-    <SolidColorBrush x:Key="LabelTagSolidLightBlueBackground" Color="#40B4F3" />
+    <SolidColorBrush x:Key="LabelTagSolidLightBlueBackground" Color="#{DynamicResource SystemAccentColorLight1}" />
     <SolidColorBrush x:Key="LabelTagSolidCyanBackground" Color="#38BBC6" />
     <SolidColorBrush x:Key="LabelTagSolidTealBackground" Color="#33C2B0" />
     <SolidColorBrush x:Key="LabelTagSolidGreenBackground" Color="#5DC264" />

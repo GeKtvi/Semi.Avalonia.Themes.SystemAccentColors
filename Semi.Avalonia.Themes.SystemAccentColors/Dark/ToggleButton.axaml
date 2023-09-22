@@ -9,14 +9,14 @@
     <SolidColorBrush x:Key="ToggleButtonDefaultBorderBrush" Color="Transparent" />
 
     <SolidColorBrush x:Key="ToggleButtonDefaultPrimaryForeground" Color="{DynamicResource SystemAccentColor}" />
-    <SolidColorBrush x:Key="ToggleButtonDefaultSecondaryForeground" Color="#40B4F3" />
+    <SolidColorBrush x:Key="ToggleButtonDefaultSecondaryForeground" Color="#{DynamicResource SystemAccentColorLight1}" />
     <SolidColorBrush x:Key="ToggleButtonDefaultTertiaryForeground" Color="#888D92" />
     <SolidColorBrush x:Key="ToggleButtonDefaultSuccessForeground" Color="#5DC264" />
     <SolidColorBrush x:Key="ToggleButtonDefaultWarningForeground" Color="#FFAE43" />
     <SolidColorBrush x:Key="ToggleButtonDefaultDangerForeground" Color="#FC725A" />
 
     <SolidColorBrush x:Key="ToggleButtonPrimaryCheckedBackground" Color="{DynamicResource SystemAccentColor}" />
-    <SolidColorBrush x:Key="ToggleButtonSecondaryCheckedBackground" Color="#40B4F3" />
+    <SolidColorBrush x:Key="ToggleButtonSecondaryCheckedBackground" Color="#{DynamicResource SystemAccentColorLight1}" />
     <SolidColorBrush x:Key="ToggleButtonTertiaryCheckedBackground" Color="#888D92" />
     <SolidColorBrush x:Key="ToggleButtonSuccessCheckedBackground" Color="#5DC264" />
     <SolidColorBrush x:Key="ToggleButtonWarningCheckedBackground" Color="#FFAE43" />
@@ -46,7 +46,7 @@
     <SolidColorBrush x:Key="ToggleButtonDangerIndeterminateBackground" Color="#6C090B" />
 
     <SolidColorBrush x:Key="ToggleButtonPrimaryIndeterminateBorderBrush" Color="{DynamicResource SystemAccentColor}" />
-    <SolidColorBrush x:Key="ToggleButtonSecondaryIndeterminateBorderBrush" Color="#40B4F3" />
+    <SolidColorBrush x:Key="ToggleButtonSecondaryIndeterminateBorderBrush" Color="#{DynamicResource SystemAccentColorLight1}" />
     <SolidColorBrush x:Key="ToggleButtonTertiaryIndeterminateBorderBrush" Color="#888D92" />
     <SolidColorBrush x:Key="ToggleButtonSuccessIndeterminateBorderBrush" Color="#5DC264" />
     <SolidColorBrush x:Key="ToggleButtonWarningIndeterminateBorderBrush" Color="#FFAE43" />

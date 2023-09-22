@@ -65,7 +65,7 @@
     <Color x:Key="SemiLightBlue2Color">#0366A9</Color>
     <Color x:Key="SemiLightBlue3Color">#0A81CC</Color>
     <Color x:Key="SemiLightBlue4Color">#139FF0</Color>
-    <Color x:Key="SemiLightBlue5Color">#40B4F3</Color>
+    <Color x:Key="SemiLightBlue5Color">#{DynamicResource SystemAccentColorLight1}</Color>
     <Color x:Key="SemiLightBlue6Color">#6EC8F6</Color>
     <Color x:Key="SemiLightBlue7Color">#9DDCF9</Color>
     <Color x:Key="SemiLightBlue8Color">#CEEEFC</Color>
