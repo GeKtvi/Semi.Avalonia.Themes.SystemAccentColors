@@ -1,0 +1,47 @@
+<ResourceDictionary xmlns="https://github.com/avaloniaui" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <ResourceDictionary.MergedDictionaries>
+        <ResourceInclude Source="/Dark/Palette.axaml" />
+        <!--  Controls  -->
+        <ResourceInclude Source="/Dark/AutoCompleteBox.axaml" />
+        <ResourceInclude Source="/Dark/Border.axaml" />
+        <ResourceInclude Source="/Dark/Button.axaml" />
+        <ResourceInclude Source="/Dark/ButtonSpinner.axaml" />
+        <ResourceInclude Source="/Dark/Calendar.axaml" />
+        <ResourceInclude Source="/Dark/CalendarDatePicker.axaml" />
+        <ResourceInclude Source="/Dark/CaptionButtons.axaml" />
+        <ResourceInclude Source="/Dark/Carousel.axaml" />
+        <ResourceInclude Source="/Dark/CheckBox.axaml" />
+        <ResourceInclude Source="/Dark/ComboBox.axaml" />
+        <ResourceInclude Source="/Dark/DataValidationErrors.axaml" />
+        <ResourceInclude Source="/Dark/DatePicker.axaml" />
+        <ResourceInclude Source="/Dark/DateTimePickerShared.axaml" />
+        <ResourceInclude Source="/Dark/DropDownButton.axaml" />
+        <ResourceInclude Source="/Dark/Expander.axaml" />
+        <ResourceInclude Source="/Dark/Flyout.axaml" />
+        <ResourceInclude Source="/Dark/GridSplitter.axaml" />
+        <ResourceInclude Source="/Dark/HeaderedContentControl.axaml" />
+        <ResourceInclude Source="/Dark/Label.axaml" />
+        <ResourceInclude Source="/Dark/ListBox.axaml" />
+        <ResourceInclude Source="/Dark/ManagedFileChooser.axaml" />
+        <ResourceInclude Source="/Dark/Menu.axaml" />
+        <ResourceInclude Source="/Dark/NotificationCard.axaml" />
+        <ResourceInclude Source="/Dark/NumericUpDown.axaml" />
+        <ResourceInclude Source="/Dark/ProgressBar.axaml" />
+        <ResourceInclude Source="/Dark/RadioButton.axaml" />
+        <ResourceInclude Source="/Dark/RefreshContainer.axaml" />
+        <ResourceInclude Source="/Dark/ScrollViewer.axaml" />
+        <ResourceInclude Source="/Dark/Slider.axaml" />
+        <ResourceInclude Source="/Dark/SplitButton.axaml" />
+        <ResourceInclude Source="/Dark/SplitView.axaml" />
+        <ResourceInclude Source="/Dark/TabControl.axaml" />
+        <ResourceInclude Source="/Dark/TabItem.axaml" />
+        <ResourceInclude Source="/Dark/TextBlock.axaml" />
+        <ResourceInclude Source="/Dark/TextBox.axaml" />
+        <ResourceInclude Source="/Dark/TimePicker.axaml" />
+        <ResourceInclude Source="/Dark/ToggleButton.axaml" />
+        <ResourceInclude Source="/Dark/ToggleSwitch.axaml" />
+        <ResourceInclude Source="/Dark/Tooltip.axaml" />
+        <ResourceInclude Source="/Dark/TreeView.axaml" />
+        <ResourceInclude Source="/Dark/Window.axaml" />
+    </ResourceDictionary.MergedDictionaries>
+</ResourceDictionary>

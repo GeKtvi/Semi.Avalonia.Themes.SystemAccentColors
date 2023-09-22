@@ -1,0 +1,18 @@
+<Styles xmlns="https://github.com/avaloniaui" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Styles.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.ThemeDictionaries>
+                <MergeResourceInclude x:Key="Default" Source="/Light/_index.axaml" />
+                <MergeResourceInclude x:Key="Dark" Source="/Dark/_index.axaml" />
+            </ResourceDictionary.ThemeDictionaries>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceInclude Source="avares://Semi.Avalonia/Controls/_index.axaml" />
+                <ResourceInclude Source="/Base.axaml" />
+                <ResourceInclude Source="/Shared/_index.axaml" />
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Styles.Resources>
+    <Style Selector=":is(UserControl)">
+        <Setter Property="Theme" Value="{DynamicResource {x:Type UserControl}}" />
+    </Style>
+</Styles>

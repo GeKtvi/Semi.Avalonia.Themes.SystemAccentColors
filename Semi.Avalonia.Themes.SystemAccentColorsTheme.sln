@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Semi.Avalonia.Themes.SystemAccentColorsTheme.TestApp", "Semi.Avalonia.Themes.SystemAccentColors.TestApp\TestApp\Semi.Avalonia.Themes.SystemAccentColorsTheme.TestApp.csproj", "{DF40AC9A-EB5C-4F25-B7AB-270C3EEEBB7A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TestApp", "TestApp", "{7763A487-49A6-45A4-A223-463F4DCEDF66}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Semi.Avalonia.Themes.SystemAccentColorsTheme.TestApp.Desktop", "Semi.Avalonia.Themes.SystemAccentColors.TestApp\TestApp.Desktop\Semi.Avalonia.Themes.SystemAccentColorsTheme.TestApp.Desktop.csproj", "{BB16C02A-FA34-495C-B231-5E843F269696}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Semi.Avalonia.Themes.SystemAccentColorsTheme", "Semi.Avalonia.Themes.SystemAccentColors\Semi.Avalonia.Themes.SystemAccentColorsTheme.csproj", "{AE58C8A8-A60D-43DF-90E0-9A8E9FEB6658}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF40AC9A-EB5C-4F25-B7AB-270C3EEEBB7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF40AC9A-EB5C-4F25-B7AB-270C3EEEBB7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF40AC9A-EB5C-4F25-B7AB-270C3EEEBB7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF40AC9A-EB5C-4F25-B7AB-270C3EEEBB7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB16C02A-FA34-495C-B231-5E843F269696}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB16C02A-FA34-495C-B231-5E843F269696}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB16C02A-FA34-495C-B231-5E843F269696}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB16C02A-FA34-495C-B231-5E843F269696}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE58C8A8-A60D-43DF-90E0-9A8E9FEB6658}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE58C8A8-A60D-43DF-90E0-9A8E9FEB6658}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE58C8A8-A60D-43DF-90E0-9A8E9FEB6658}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE58C8A8-A60D-43DF-90E0-9A8E9FEB6658}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DF40AC9A-EB5C-4F25-B7AB-270C3EEEBB7A} = {7763A487-49A6-45A4-A223-463F4DCEDF66}
+		{BB16C02A-FA34-495C-B231-5E843F269696} = {7763A487-49A6-45A4-A223-463F4DCEDF66}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {886C8651-1ECB-4D0D-B3CC-D0BC2DA2796C}
+	EndGlobalSection
+EndGlobal
