@@ -28,8 +28,8 @@
     <SolidColorBrush x:Key="ButtonSolidPrimaryPressedBackground" Color="{DynamicResource SystemAccentColorLight2}" />
 
     <SolidColorBrush x:Key="ButtonSolidSecondaryBackground" Color="{DynamicResource SystemAccentColorLight1}" />
-    <SolidColorBrush x:Key="ButtonSolidSecondaryPointeroverBackground" Color="#{DynamicResource SystemAccentColorLight2}" />
-    <SolidColorBrush x:Key="ButtonSolidSecondaryPressedBackground" Color="#{DynamicResource SystemAccentColorLight3}" />
+    <SolidColorBrush x:Key="ButtonSolidSecondaryPointeroverBackground" Color="{DynamicResource SystemAccentColorLight2}" />
+    <SolidColorBrush x:Key="ButtonSolidSecondaryPressedBackground" Color="{DynamicResource SystemAccentColorLight3}" />
 
     <SolidColorBrush x:Key="ButtonSolidTertiaryBackground" Color="#888D92" />
     <SolidColorBrush x:Key="ButtonSolidTertiaryPointeroverBackground" Color="#A7ABB0" />
@@ -53,9 +53,9 @@
     <SolidColorBrush x:Key="ButtonSolidPrimaryPointeroverBorderBrush" Color="{DynamicResource SystemAccentColorLight1}" />
     <SolidColorBrush x:Key="ButtonSolidPrimaryPressedBorderBrush" Color="{DynamicResource SystemAccentColorLight2}" />
 
-    <SolidColorBrush x:Key="ButtonSolidSecondaryBorderBrush" Color="#{DynamicResource SystemAccentColorLight1}" />
-    <SolidColorBrush x:Key="ButtonSolidSecondaryPointeroverBorderBrush" Color="#{DynamicResource SystemAccentColorLight2}" />
-    <SolidColorBrush x:Key="ButtonSolidSecondaryPressedBorderBrush" Color="#{DynamicResource SystemAccentColorLight3}" />
+    <SolidColorBrush x:Key="ButtonSolidSecondaryBorderBrush" Color="{DynamicResource SystemAccentColorLight1}" />
+    <SolidColorBrush x:Key="ButtonSolidSecondaryPointeroverBorderBrush" Color="{DynamicResource SystemAccentColorLight2}" />
+    <SolidColorBrush x:Key="ButtonSolidSecondaryPressedBorderBrush" Color="{DynamicResource SystemAccentColorLight3}" />
 
     <SolidColorBrush x:Key="ButtonSolidTertiaryBorderBrush" Color="#888D92" />
     <SolidColorBrush x:Key="ButtonSolidTertiaryPointeroverBorderBrush" Color="#A7ABB0" />

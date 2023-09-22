@@ -8,8 +8,8 @@
     <SolidColorBrush x:Key="ListBoxItemDefaultBackground" Color="Transparent" />
     <SolidColorBrush x:Key="ListBoxItemPointeroverBackground" Opacity="0.12" Color="White" />
     <SolidColorBrush x:Key="ListBoxItemPressedBackground" Opacity="0.16" Color="White" />
-    <SolidColorBrush x:Key="ListBoxItemSelectedBackground" Opacity="0.2" Color="#FF54A9FF" />
-    <SolidColorBrush x:Key="ListBoxItemSelectedPointeroverBackground" Opacity="0.3" Color="#FF54A9FF" />
+    <SolidColorBrush x:Key="ListBoxItemSelectedBackground" Opacity="0.2" Color="{DynamicResource SystemAccentColor}" />
+    <SolidColorBrush x:Key="ListBoxItemSelectedPointeroverBackground" Opacity="0.3" Color="{DynamicResource SystemAccentColor}" />
     <SolidColorBrush x:Key="ListBoxItemDisabledBackground" Color="Transparent" />
     <SolidColorBrush x:Key="ListBoxItemSelectedDisabledBackground" Opacity="0.04" Color="#E6E8EA" />
 
@@ -53,7 +53,7 @@
     <!-- CardRadioGroupListBox -->
     <SolidColorBrush x:Key="ListBoxItemRadioGroupCardDefaultBackground" Color="Transparent" />
     <SolidColorBrush x:Key="ListBoxItemRadioGroupCardDefaultBorderBrush" Color="Transparent" />
-    <SolidColorBrush x:Key="ListBoxItemRadioGroupCardCheckedBackground" Opacity="0.2" Color="#FF54A9FF" />
+    <SolidColorBrush x:Key="ListBoxItemRadioGroupCardCheckedBackground" Opacity="0.2" Color="{DynamicResource SystemAccentColor}" />
     <SolidColorBrush x:Key="ListBoxItemRadioGroupCardCheckDefaultBorderBrush" Color="{DynamicResource SystemAccentColor}" />
     <SolidColorBrush x:Key="ListBoxItemRadioGroupCardCheckPointeroverBorderBrush" Color="{DynamicResource SystemAccentColorLight1}" />
     <SolidColorBrush x:Key="ListBoxItemRadioGroupCardCheckPressedBorderBrush" Color="{DynamicResource SystemAccentColorLight2}" />
@@ -87,11 +87,11 @@
     <SolidColorBrush x:Key="ListBoxItemCheckCheckedDisabledBorderBrush" Color="{DynamicResource SystemAccentColorLight3}" />
 
     <!-- CardCheckGroupListBox -->
-    <SolidColorBrush x:Key="ListBoxItemCheckCardCheckedBackground" Opacity="0.2" Color="#FF54A9FF" />
-    <SolidColorBrush x:Key="ListBoxItemCheckCardCheckedBorderBrush" Color="#FF54A9FF" />
+    <SolidColorBrush x:Key="ListBoxItemCheckCardCheckedBackground" Opacity="0.2" Color="{DynamicResource SystemAccentColor}" />
+    <SolidColorBrush x:Key="ListBoxItemCheckCardCheckedBorderBrush" Color="{DynamicResource SystemAccentColor}" />
     <SolidColorBrush x:Key="ListBoxItemCheckCardCheckedDisabledBorderBrush" Color="#FF135CB8" />
     <SolidColorBrush x:Key="ListBoxItemCheckCardPointeroverBackground" Opacity="0.05" Color="#FFFFFFFF" />
     <SolidColorBrush x:Key="ListBoxItemCheckCardPressedBackground" Opacity="0.09" Color="#FFFFFFFF" />
-    <SolidColorBrush x:Key="ListBoxItemCheckCardCheckedPointeroverBorderBrush" Color="#FF7FC1FF" />
+    <SolidColorBrush x:Key="ListBoxItemCheckCardCheckedPointeroverBorderBrush" Color="{DynamicResource SystemAccentColorLight1}" />
     <SolidColorBrush x:Key="ListBoxItemCheckCardCheckedPressedBorderBrush" Color="#FFA9D7FF" />
 </ResourceDictionary>
