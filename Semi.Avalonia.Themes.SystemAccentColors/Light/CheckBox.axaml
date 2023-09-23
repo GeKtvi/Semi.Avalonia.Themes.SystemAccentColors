@@ -32,5 +32,5 @@
     <SolidColorBrush x:Key="CheckBoxCardPointeroverBackground" Opacity="0.05" Color="#FF2E3238" />
     <SolidColorBrush x:Key="CheckBoxCardPressedBackground" Opacity="0.09" Color="#FF2E3238" />
     <SolidColorBrush x:Key="CheckBoxCardCheckedPointeroverBorderBrush" Color="{DynamicResource SystemAccentColorLight1}" />
-    <SolidColorBrush x:Key="CheckBoxCardCheckedPressedBorderBrush" Color="#FF004FB3" />
+    <SolidColorBrush x:Key="CheckBoxCardCheckedPressedBorderBrush" Color="{DynamicResource SystemAccentColorLight2}" />
 </ResourceDictionary>
