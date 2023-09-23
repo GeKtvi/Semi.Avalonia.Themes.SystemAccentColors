@@ -40,7 +40,7 @@
     <!-- CardRadioButton -->
     <SolidColorBrush x:Key="RadioButtonCardDefaultBackground" Color="Transparent" />
     <SolidColorBrush x:Key="RadioButtonCardDefaultBorderBrush" Color="Transparent" />
-    <SolidColorBrush x:Key="RadioButtonCardCheckedBackground" Color="#FFEAF5FF" />
+    <SolidColorBrush x:Key="RadioButtonCardCheckedBackground" Color="{DynamicResource SystemAccentColorLight3}" />
     <SolidColorBrush x:Key="RadioButtonCardCheckDefaultBorderBrush" Color="{DynamicResource SystemAccentColor}" />
     <SolidColorBrush x:Key="RadioButtonCardCheckPointeroverBorderBrush" Color="{DynamicResource SystemAccentColorLight1}" />
     <SolidColorBrush x:Key="RadioButtonCardCheckPressedBorderBrush" Color="{DynamicResource SystemAccentColorLight2}" />
