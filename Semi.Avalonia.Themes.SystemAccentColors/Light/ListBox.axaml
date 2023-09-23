@@ -30,11 +30,11 @@
     <SolidColorBrush x:Key="ListBoxItemRadioGroupCheckIconDefaultBackground" Color="{DynamicResource SystemAccentColor}" />
     <SolidColorBrush x:Key="ListBoxItemRadioGroupCheckIconPointeroverBackground" Color="{DynamicResource SystemAccentColorLight1}" />
     <SolidColorBrush x:Key="ListBoxItemRadioGroupCheckIconPressedBackground" Color="{DynamicResource SystemAccentColorLight2}" />
-    <SolidColorBrush x:Key="ListBoxItemRadioGroupCheckIconDisabledBackground" Color="#98CDFD" />
+    <SolidColorBrush x:Key="ListBoxItemRadioGroupCheckIconDisabledBackground" Color="{DynamicResource SystemAccentColorDark2}" />
     <SolidColorBrush x:Key="ListBoxItemRadioGroupCheckIconDefaultBorderBrush" Color="{DynamicResource SystemAccentColor}" />
     <SolidColorBrush x:Key="ListBoxItemRadioGroupCheckIconPointeroverBorderBrush" Color="{DynamicResource SystemAccentColorLight1}" />
     <SolidColorBrush x:Key="ListBoxItemRadioGroupCheckIconPressedBorderBrush" Color="{DynamicResource SystemAccentColorLight2}" />
-    <SolidColorBrush x:Key="ListBoxItemRadioGroupCheckIconDisabledBorderBrush" Color="#98CDFD" />
+    <SolidColorBrush x:Key="ListBoxItemRadioGroupCheckIconDisabledBorderBrush" Color="{DynamicResource SystemAccentColorDark2}" />
 
     <SolidColorBrush x:Key="ListBoxItemRadioGroupCheckGlyphFill" Color="White" />
 
@@ -83,8 +83,8 @@
 
     <SolidColorBrush x:Key="ListBoxItemCheckDefaultDisabledBackground" Opacity="0.02" Color="#2E3238" />
     <SolidColorBrush x:Key="ListBoxItemCheckDefaultDisabledBorderBrush" Opacity="0.08" Color="#1C1F23" />
-    <SolidColorBrush x:Key="ListBoxItemCheckCheckedDisabledBackground" Color="#98CDFD" />
-    <SolidColorBrush x:Key="ListBoxItemCheckCheckedDisabledBorderBrush" Color="#98CDFD" />
+    <SolidColorBrush x:Key="ListBoxItemCheckCheckedDisabledBackground" Color="{DynamicResource SystemAccentColorDark2}" />
+    <SolidColorBrush x:Key="ListBoxItemCheckCheckedDisabledBorderBrush" Color="{DynamicResource SystemAccentColorDark2}" />
 
     <!-- CardCheckGroupListBox -->
     <SolidColorBrush x:Key="ListBoxItemCheckCardCheckedBackground" Color="#FFEAF5FF" />

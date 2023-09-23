@@ -23,8 +23,8 @@
 
     <SolidColorBrush x:Key="CheckBoxDefaultDisabledBackground" Opacity="0.02" Color="#2E3238" />
     <SolidColorBrush x:Key="CheckBoxDefaultDisabledBorderBrush" Opacity="0.08" Color="#1C1F23" />
-    <SolidColorBrush x:Key="CheckBoxCheckedDisabledBackground" Color="#98CDFD" />
-    <SolidColorBrush x:Key="CheckBoxCheckedDisabledBorderBrush" Color="#98CDFD" />
+    <SolidColorBrush x:Key="CheckBoxCheckedDisabledBackground" Color="{DynamicResource SystemAccentColorDark2}" />
+    <SolidColorBrush x:Key="CheckBoxCheckedDisabledBorderBrush" Color="{DynamicResource SystemAccentColorDark2}" />
 
     <SolidColorBrush x:Key="CheckBoxCardCheckedBackground" Color="#FFEAF5FF" />
     <SolidColorBrush x:Key="CheckBoxCardCheckedBorderBrush" Color="{DynamicResource SystemAccentColor}" />
