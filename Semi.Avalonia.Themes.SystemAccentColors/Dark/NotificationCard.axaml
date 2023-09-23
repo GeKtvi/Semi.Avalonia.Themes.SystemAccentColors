@@ -2,7 +2,7 @@
     <SolidColorBrush x:Key="NotificationCardForeground" Color="#F9F9F9" />
     <SolidColorBrush x:Key="NotificationCardBorderBrush" Opacity="0.08" Color="#F9F9F9" />
     <SolidColorBrush x:Key="NotificationCardBackground" Color="#43444A" />
-    <SolidColorBrush x:Key="NotificationCardInformationIconForeground" Color="{DynamicResource SystemAccentColor}" />
+    <SolidColorBrush x:Key="NotificationCardInformationIconForeground" Color="#FF0077FA" />
     <SolidColorBrush x:Key="NotificationCardSuccessIconForeground" Color="#5DC264" />
     <SolidColorBrush x:Key="NotificationCardWarningIconForeground" Color="#FFAE43" />
     <SolidColorBrush x:Key="NotificationCardErrorIconForeground" Color="#FC725A" />
