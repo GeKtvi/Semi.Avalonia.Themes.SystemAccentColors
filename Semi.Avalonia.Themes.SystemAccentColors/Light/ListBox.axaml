@@ -8,7 +8,7 @@
     <SolidColorBrush x:Key="ListBoxItemDefaultBackground" Color="Transparent" />
     <SolidColorBrush x:Key="ListBoxItemPointeroverBackground" Opacity="0.05" Color="#2E3238" />
     <SolidColorBrush x:Key="ListBoxItemPressedBackground" Opacity="0.09" Color="#2E3238" />
-    <SolidColorBrush x:Key="ListBoxItemSelectedBackground" Color="#EAF5FF" />
+    <SolidColorBrush x:Key="ListBoxItemSelectedBackground" Opacity="0.7" Color="{DynamicResource SystemAccentColorLight3}" />
     <SolidColorBrush x:Key="ListBoxItemSelectedPointeroverBackground" Color="#CBE7FE" />
     <SolidColorBrush x:Key="ListBoxItemDisabledBackground" Color="Transparent" />
     <SolidColorBrush x:Key="ListBoxItemSelectedDisabledBackground" Opacity="0.02" Color="#2E3238" />
@@ -30,11 +30,11 @@
     <SolidColorBrush x:Key="ListBoxItemRadioGroupCheckIconDefaultBackground" Color="{DynamicResource SystemAccentColor}" />
     <SolidColorBrush x:Key="ListBoxItemRadioGroupCheckIconPointeroverBackground" Color="{DynamicResource SystemAccentColorLight1}" />
     <SolidColorBrush x:Key="ListBoxItemRadioGroupCheckIconPressedBackground" Color="{DynamicResource SystemAccentColorLight2}" />
-    <SolidColorBrush x:Key="ListBoxItemRadioGroupCheckIconDisabledBackground" Color="{DynamicResource SystemAccentColorDark2}" />
+    <SolidColorBrush x:Key="ListBoxItemRadioGroupCheckIconDisabledBackground" Opacity="0.3" Color="{DynamicResource SystemAccentColorDark2}" />
     <SolidColorBrush x:Key="ListBoxItemRadioGroupCheckIconDefaultBorderBrush" Color="{DynamicResource SystemAccentColor}" />
     <SolidColorBrush x:Key="ListBoxItemRadioGroupCheckIconPointeroverBorderBrush" Color="{DynamicResource SystemAccentColorLight1}" />
     <SolidColorBrush x:Key="ListBoxItemRadioGroupCheckIconPressedBorderBrush" Color="{DynamicResource SystemAccentColorLight2}" />
-    <SolidColorBrush x:Key="ListBoxItemRadioGroupCheckIconDisabledBorderBrush" Color="{DynamicResource SystemAccentColorDark2}" />
+    <SolidColorBrush x:Key="ListBoxItemRadioGroupCheckIconDisabledBorderBrush" Opacity="0.3" Color="{DynamicResource SystemAccentColorDark2}" />
 
     <SolidColorBrush x:Key="ListBoxItemRadioGroupCheckGlyphFill" Color="White" />
 

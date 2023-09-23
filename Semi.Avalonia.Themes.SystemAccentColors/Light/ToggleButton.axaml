@@ -38,7 +38,7 @@
 
     <SolidColorBrush x:Key="ToggleButtonCheckedForeground" Color="White" />
 
-    <SolidColorBrush x:Key="ToggleButtonPrimaryIndeterminateBackground" Color="#EAF5FF" />
+    <SolidColorBrush x:Key="ToggleButtonPrimaryIndeterminateBackground" Opacity="0.7" Color="{DynamicResource SystemAccentColorLight3}" />
     <SolidColorBrush x:Key="ToggleButtonSecondaryIndeterminateBackground" Color="#E9F7FD" />
     <SolidColorBrush x:Key="ToggleButtonTertiaryIndeterminateBackground" Color="#F9F9F9" />
     <SolidColorBrush x:Key="ToggleButtonSuccessIndeterminateBackground" Color="#ECF7EC" />

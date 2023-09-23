@@ -7,7 +7,7 @@
     <SolidColorBrush x:Key="TreeViewItemDefaultBackground" Color="Transparent" />
     <SolidColorBrush x:Key="TreeViewItemPointeroverBackground" Opacity="0.05" Color="#2E3238" />
     <SolidColorBrush x:Key="TreeViewItemPressedBackground" Opacity="0.09" Color="#2E3238" />
-    <SolidColorBrush x:Key="TreeViewItemSelectedBackground" Color="#EAF5FF" />
+    <SolidColorBrush x:Key="TreeViewItemSelectedBackground"  Opacity="0.7" Color="{DynamicResource SystemAccentColorLight3}" />
     <SolidColorBrush x:Key="TreeViewItemDisabledBackground" Color="Transparent" />
     <SolidColorBrush x:Key="TreeViewItemSelectedDisabledBackground" Opacity="0.02" Color="#2E3238" />
 </ResourceDictionary>
