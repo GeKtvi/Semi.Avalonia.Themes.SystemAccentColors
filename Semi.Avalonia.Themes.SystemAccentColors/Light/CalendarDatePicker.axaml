@@ -4,7 +4,7 @@
     <SolidColorBrush x:Key="CalendarDatePickerIconPointeroverForeground" Color="#1C1F23" />
     <SolidColorBrush x:Key="CalendarDatePickerBackground" Opacity="0.05" Color="#FF2E3238" />
     <SolidColorBrush x:Key="CalendarDatePickerPointeroverBackground" Opacity="0.09" Color="#FF2E3238" />
-    <SolidColorBrush x:Key="CalendarDatePickerFocusBorderBrush" Color="#FF0077FA" />
+    <SolidColorBrush x:Key="CalendarDatePickerFocusBorderBrush" Color="{DynamicResource SystemAccentColor}" />
     <SolidColorBrush x:Key="CalendarDatePickerDisabledBackground" Opacity="0.02" Color="#2E3238" />
     <SolidColorBrush x:Key="CalendarDatePickerDisabledIconForeground" Opacity="0.4" Color="#2E3238" />
     <BoxShadows x:Key="CalendarDatePickerPopupBoxShadows">0 0 8 0 #1A000000</BoxShadows>
