@@ -6,7 +6,7 @@
     <SolidColorBrush x:Key="SliderThumbBackground" Color="White" />
     <SolidColorBrush x:Key="SliderThumbBorderBrush" Color="{DynamicResource SystemAccentColor}" />
     <SolidColorBrush x:Key="SliderThumbPointeroverBorderBrush" Color="{DynamicResource SystemAccentColorLight1}" />
-    <SolidColorBrush x:Key="SliderThumbPressedBorderBrush" Color="#004FB3" />
+    <SolidColorBrush x:Key="SliderThumbPressedBorderBrush" Color="{DynamicResource SystemAccentColorLight2}" />
 
     <SolidColorBrush x:Key="SliderTrackDisabledForeground" Color="#CBE7FE" />
     <SolidColorBrush x:Key="SliderThumbDisabledBorderBrush" Color="#CBE7FE" />
