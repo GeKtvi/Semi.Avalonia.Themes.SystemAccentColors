@@ -92,6 +92,6 @@
     <SolidColorBrush x:Key="ListBoxItemCheckCardCheckedDisabledBorderBrush" Color="#FF98CDFD" />
     <SolidColorBrush x:Key="ListBoxItemCheckCardPointeroverBackground" Opacity="0.05" Color="#FF2E3238" />
     <SolidColorBrush x:Key="ListBoxItemCheckCardPressedBackground" Opacity="0.09" Color="#FF2E3238" />
-    <SolidColorBrush x:Key="ListBoxItemCheckCardCheckedPointeroverBorderBrush" Color="#FF0062D6" />
+    <SolidColorBrush x:Key="ListBoxItemCheckCardCheckedPointeroverBorderBrush" Color="{DynamicResource SystemAccentColorLight1}" />
     <SolidColorBrush x:Key="ListBoxItemCheckCardCheckedPressedBorderBrush" Color="#FF004FB3" />
 </ResourceDictionary>
