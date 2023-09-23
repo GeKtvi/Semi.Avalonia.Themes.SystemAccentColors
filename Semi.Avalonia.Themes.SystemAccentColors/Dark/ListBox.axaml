@@ -89,9 +89,9 @@
     <!-- CardCheckGroupListBox -->
     <SolidColorBrush x:Key="ListBoxItemCheckCardCheckedBackground" Opacity="0.2" Color="{DynamicResource SystemAccentColor}" />
     <SolidColorBrush x:Key="ListBoxItemCheckCardCheckedBorderBrush" Color="{DynamicResource SystemAccentColor}" />
-    <SolidColorBrush x:Key="ListBoxItemCheckCardCheckedDisabledBorderBrush" Color="#FF135CB8" />
+    <SolidColorBrush x:Key="ListBoxItemCheckCardCheckedDisabledBorderBrush" Color="{DynamicResource SystemAccentColorDark2}" />
     <SolidColorBrush x:Key="ListBoxItemCheckCardPointeroverBackground" Opacity="0.05" Color="#FFFFFFFF" />
     <SolidColorBrush x:Key="ListBoxItemCheckCardPressedBackground" Opacity="0.09" Color="#FFFFFFFF" />
     <SolidColorBrush x:Key="ListBoxItemCheckCardCheckedPointeroverBorderBrush" Color="{DynamicResource SystemAccentColorLight1}" />
-    <SolidColorBrush x:Key="ListBoxItemCheckCardCheckedPressedBorderBrush" Color="#FFA9D7FF" />
+    <SolidColorBrush x:Key="ListBoxItemCheckCardCheckedPressedBorderBrush" Color="{DynamicResource SystemAccentColorLight2}" />
 </ResourceDictionary>
