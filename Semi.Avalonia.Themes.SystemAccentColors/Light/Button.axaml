@@ -2,7 +2,7 @@
     xmlns="https://github.com/avaloniaui"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
     <!--  Light  -->
-    <SolidColorBrush x:Key="ButtonDefaultPrimaryForeground" Color="#0077FA" />
+    <SolidColorBrush x:Key="ButtonDefaultPrimaryForeground" Color="{DynamicResource SystemAccentColor}" />
     <SolidColorBrush x:Key="ButtonDefaultSecondaryForeground" Color="#0095EE" />
     <SolidColorBrush x:Key="ButtonDefaultTertiaryForeground" Color="#6B7075" />
     <SolidColorBrush x:Key="ButtonDefaultSuccessForeground" Color="#3BB346" />
@@ -26,7 +26,7 @@
     <SolidColorBrush x:Key="ButtonSolidForeground" Color="White" />
     <SolidColorBrush x:Key="ButtonSolidDisabledForeground" Color="Gray" />
 
-    <SolidColorBrush x:Key="ButtonSolidPrimaryBackground" Color="#0077FA" />
+    <SolidColorBrush x:Key="ButtonSolidPrimaryBackground" Color="{DynamicResource SystemAccentColor}" />
     <SolidColorBrush x:Key="ButtonSolidPrimaryPointeroverBackground" Color="#0062D6" />
     <SolidColorBrush x:Key="ButtonSolidPrimaryPressedBackground" Color="#004FB3" />
 
@@ -52,7 +52,7 @@
 
     <SolidColorBrush x:Key="ButtonSolidDisabledBackground" Color="Gray" />
 
-    <SolidColorBrush x:Key="ButtonSolidPrimaryBorderBrush" Color="#0077FA" />
+    <SolidColorBrush x:Key="ButtonSolidPrimaryBorderBrush" Color="{DynamicResource SystemAccentColor}" />
     <SolidColorBrush x:Key="ButtonSolidPrimaryPointeroverBorderBrush" Color="#0062D6" />
     <SolidColorBrush x:Key="ButtonSolidPrimaryPressedBorderBrush" Color="#004FB3" />
 

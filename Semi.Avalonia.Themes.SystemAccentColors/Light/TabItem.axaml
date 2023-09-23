@@ -1,7 +1,7 @@
 <ResourceDictionary xmlns="https://github.com/avaloniaui" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
     <!--  Line  -->
     <SolidColorBrush x:Key="TabItemLinePipeBackground" Color="Transparent" />
-    <SolidColorBrush x:Key="TabItemLinePipeSelectedBackground" Color="#0077FA" />
+    <SolidColorBrush x:Key="TabItemLinePipeSelectedBackground" Color="{DynamicResource SystemAccentColor}" />
     <SolidColorBrush x:Key="TabItemLinePipePointeroverBorderBrush" Opacity="0.09" Color="#2E3238" />
     <SolidColorBrush x:Key="TabItemLinePipePressedBorderBrush" Opacity="0.13" Color="#2E3238" />
 
