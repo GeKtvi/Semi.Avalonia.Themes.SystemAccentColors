@@ -16,8 +16,8 @@
 
     <SolidColorBrush x:Key="CheckBoxCheckedDefaultBackground" Color="{DynamicResource SystemAccentColor}" />
     <SolidColorBrush x:Key="CheckBoxCheckedDefaultBorderBrush" Color="{DynamicResource SystemAccentColor}" />
-    <SolidColorBrush x:Key="CheckBoxCheckedPointeroverBackground" Color="#0062D6" />
-    <SolidColorBrush x:Key="CheckBoxCheckedPointeroverBorderBrush" Color="#0062D6" />
+    <SolidColorBrush x:Key="CheckBoxCheckedPointeroverBackground" Color="{DynamicResource SystemAccentColorLight1}" />
+    <SolidColorBrush x:Key="CheckBoxCheckedPointeroverBorderBrush" Color="{DynamicResource SystemAccentColorLight1}" />
     <SolidColorBrush x:Key="CheckBoxCheckedPressedBackground" Color="#004FB3" />
     <SolidColorBrush x:Key="CheckBoxCheckedPressedBorderBrush" Color="#004FB3" />
 

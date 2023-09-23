@@ -22,7 +22,7 @@
     <SolidColorBrush x:Key="ToggleButtonWarningCheckedBackground" Color="#FC8800" />
     <SolidColorBrush x:Key="ToggleButtonDangerCheckedBackground" Color="#F93920" />
 
-    <SolidColorBrush x:Key="ToggleButtonPrimaryCheckedPointeroverBackground" Color="#0062D6" />
+    <SolidColorBrush x:Key="ToggleButtonPrimaryCheckedPointeroverBackground" Color="{DynamicResource SystemAccentColorLight1}" />
     <SolidColorBrush x:Key="ToggleButtonSecondaryCheckedPointeroverBackground" Color="#007BCA" />
     <SolidColorBrush x:Key="ToggleButtonTertiaryCheckedPointeroverBackground" Color="#555B61" />
     <SolidColorBrush x:Key="ToggleButtonSuccessCheckedPointeroverBackground" Color="#30953B" />
@@ -52,14 +52,14 @@
     <SolidColorBrush x:Key="ToggleButtonWarningIndeterminateBorderBrush" Color="#FC8800" />
     <SolidColorBrush x:Key="ToggleButtonDangerIndeterminateBorderBrush" Color="#F93920" />
 
-    <SolidColorBrush x:Key="ToggleButtonPrimaryIndeterminatePointeroverBorderBrush" Color="#0062D6" />
+    <SolidColorBrush x:Key="ToggleButtonPrimaryIndeterminatePointeroverBorderBrush" Color="{DynamicResource SystemAccentColorLight1}" />
     <SolidColorBrush x:Key="ToggleButtonSecondaryIndeterminatePointeroverBorderBrush" Color="#007BCA" />
     <SolidColorBrush x:Key="ToggleButtonTertiaryIndeterminatePointeroverBorderBrush" Color="#555B61" />
     <SolidColorBrush x:Key="ToggleButtonSuccessIndeterminatePointeroverBorderBrush" Color="#30953B" />
     <SolidColorBrush x:Key="ToggleButtonWarningIndeterminatePointeroverBorderBrush" Color="#D26700" />
     <SolidColorBrush x:Key="ToggleButtonDangerIndeterminatePointeroverBorderBrush" Color="#D52515" />
 
-    <SolidColorBrush x:Key="ToggleButtonPrimaryIndeterminatePointeroverForeground" Color="#0062D6" />
+    <SolidColorBrush x:Key="ToggleButtonPrimaryIndeterminatePointeroverForeground" Color="{DynamicResource SystemAccentColorLight1}" />
     <SolidColorBrush x:Key="ToggleButtonSecondaryIndeterminatePointeroverForeground" Color="#007BCA" />
     <SolidColorBrush x:Key="ToggleButtonTertiaryIndeterminatePointeroverForeground" Color="#555B61" />
     <SolidColorBrush x:Key="ToggleButtonSuccessIndeterminatePointeroverForeground" Color="#30953B" />
