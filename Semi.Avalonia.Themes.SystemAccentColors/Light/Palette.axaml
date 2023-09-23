@@ -58,7 +58,7 @@
     <Color x:Key="SemiBlue5Color">#0077FA</Color>
     <Color x:Key="SemiBlue6Color">#0062D6</Color>
     <Color x:Key="SemiBlue7Color">#004FB3</Color>
-    <Color x:Key="SemiBlue8Color">#003D8F</Color>
+    <Color x:Key="SemiBlue8Color">#003D8F</Color> 
     <Color x:Key="SemiBlue9Color">#002C6B</Color>
     <Color x:Key="SemiLightBlue0Color">#E9F7FD</Color>
     <Color x:Key="SemiLightBlue1Color">#C9ECFC</Color>
