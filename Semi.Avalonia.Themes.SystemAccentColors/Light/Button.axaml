@@ -27,8 +27,8 @@
     <SolidColorBrush x:Key="ButtonSolidDisabledForeground" Color="Gray" />
 
     <SolidColorBrush x:Key="ButtonSolidPrimaryBackground" Color="{DynamicResource SystemAccentColor}" />
-    <SolidColorBrush x:Key="ButtonSolidPrimaryPointeroverBackground" Color="#0062D6" />
-    <SolidColorBrush x:Key="ButtonSolidPrimaryPressedBackground" Color="#004FB3" />
+    <SolidColorBrush x:Key="ButtonSolidPrimaryPointeroverBackground" Color="{DynamicResource SystemAccentColorLight1}" />
+    <SolidColorBrush x:Key="ButtonSolidPrimaryPressedBackground" Color="{DynamicResource SystemAccentColorLight2}" />
 
     <SolidColorBrush x:Key="ButtonSolidSecondaryBackground" Color="#0095EE" />
     <SolidColorBrush x:Key="ButtonSolidSecondaryPointeroverBackground" Color="#007BCA" />
@@ -53,8 +53,8 @@
     <SolidColorBrush x:Key="ButtonSolidDisabledBackground" Color="Gray" />
 
     <SolidColorBrush x:Key="ButtonSolidPrimaryBorderBrush" Color="{DynamicResource SystemAccentColor}" />
-    <SolidColorBrush x:Key="ButtonSolidPrimaryPointeroverBorderBrush" Color="#0062D6" />
-    <SolidColorBrush x:Key="ButtonSolidPrimaryPressedBorderBrush" Color="#004FB3" />
+    <SolidColorBrush x:Key="ButtonSolidPrimaryPointeroverBorderBrush" Color="{DynamicResource SystemAccentColorLight1}" />
+    <SolidColorBrush x:Key="ButtonSolidPrimaryPressedBorderBrush" Color="{DynamicResource SystemAccentColorLight2}" />
 
     <SolidColorBrush x:Key="ButtonSolidSecondaryBorderBrush" Color="#0095EE" />
     <SolidColorBrush x:Key="ButtonSolidSecondaryPointeroverBorderBrush" Color="#007BCA" />

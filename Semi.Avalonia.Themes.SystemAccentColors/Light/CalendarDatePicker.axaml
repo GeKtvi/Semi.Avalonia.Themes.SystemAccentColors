@@ -12,5 +12,5 @@
     <SolidColorBrush x:Key="CalendarDatePickerBorderedDefaultBackground" Color="Transparent" />
     <SolidColorBrush x:Key="CalendarDatePickerBorderedDefaultBorderBrush" Opacity="0.08" Color="#FF1C1F23" />
     <SolidColorBrush x:Key="CalendarDatePickerBorderedPointeroverBackground" Color="Transparent" />
-    <SolidColorBrush x:Key="CalendarDatePickerBorderedPointeroverBorderBrush" Color="#0062D6" />
+    <SolidColorBrush x:Key="CalendarDatePickerBorderedPointeroverBorderBrush" Color="{DynamicResource SystemAccentColorLight1}" />
 </ResourceDictionary>

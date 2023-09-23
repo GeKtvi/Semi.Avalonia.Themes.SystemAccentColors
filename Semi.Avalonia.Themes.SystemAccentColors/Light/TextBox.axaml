@@ -22,7 +22,7 @@
     <SolidColorBrush x:Key="TextBoxBorderedDefaultBackground" Color="Transparent" />
     <SolidColorBrush x:Key="TextBoxBorderedDefaultBorderBrush" Opacity="0.08" Color="#FF1C1F23" />
     <SolidColorBrush x:Key="TextBoxBorderedPointeroverBackground" Color="Transparent" />
-    <SolidColorBrush x:Key="TextBoxBorderedPointeroverBorderBrush" Color="#0062D6" />
+    <SolidColorBrush x:Key="TextBoxBorderedPointeroverBorderBrush" Color="{DynamicResource SystemAccentColorLight1}" />
 
     <SolidColorBrush x:Key="TextBoxSelectionBackground" Color="#0059D6" />
     <SolidColorBrush x:Key="TextBoxSelectionForeground" Color="White" />
