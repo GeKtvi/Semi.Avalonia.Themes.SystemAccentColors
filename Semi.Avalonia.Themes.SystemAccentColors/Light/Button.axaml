@@ -3,7 +3,7 @@
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
     <!--  Light  -->
     <SolidColorBrush x:Key="ButtonDefaultPrimaryForeground" Color="{DynamicResource SystemAccentColor}" />
-    <SolidColorBrush x:Key="ButtonDefaultSecondaryForeground" Color="#0095EE" />
+    <SolidColorBrush x:Key="ButtonDefaultSecondaryForeground" Color="{DynamicResource SystemAccentColorLight1}" />
     <SolidColorBrush x:Key="ButtonDefaultTertiaryForeground" Color="#6B7075" />
     <SolidColorBrush x:Key="ButtonDefaultSuccessForeground" Color="#3BB346" />
     <SolidColorBrush x:Key="ButtonDefaultWarningForeground" Color="#FC8800" />
@@ -30,9 +30,9 @@
     <SolidColorBrush x:Key="ButtonSolidPrimaryPointeroverBackground" Color="{DynamicResource SystemAccentColorLight1}" />
     <SolidColorBrush x:Key="ButtonSolidPrimaryPressedBackground" Color="{DynamicResource SystemAccentColorLight2}" />
 
-    <SolidColorBrush x:Key="ButtonSolidSecondaryBackground" Color="#0095EE" />
-    <SolidColorBrush x:Key="ButtonSolidSecondaryPointeroverBackground" Color="#007BCA" />
-    <SolidColorBrush x:Key="ButtonSolidSecondaryPressedBackground" Color="#0063A7" />
+    <SolidColorBrush x:Key="ButtonSolidSecondaryBackground" Color="{DynamicResource SystemAccentColorLight1}" />
+    <SolidColorBrush x:Key="ButtonSolidSecondaryPointeroverBackground" Color="{DynamicResource SystemAccentColorLight2}" />
+    <SolidColorBrush x:Key="ButtonSolidSecondaryPressedBackground" Color="{DynamicResource SystemAccentColorLight3}" />
 
     <SolidColorBrush x:Key="ButtonSolidTertiaryBackground" Color="#6B7075" />
     <SolidColorBrush x:Key="ButtonSolidTertiaryPointeroverBackground" Color="#555B61" />
@@ -56,9 +56,9 @@
     <SolidColorBrush x:Key="ButtonSolidPrimaryPointeroverBorderBrush" Color="{DynamicResource SystemAccentColorLight1}" />
     <SolidColorBrush x:Key="ButtonSolidPrimaryPressedBorderBrush" Color="{DynamicResource SystemAccentColorLight2}" />
 
-    <SolidColorBrush x:Key="ButtonSolidSecondaryBorderBrush" Color="#0095EE" />
-    <SolidColorBrush x:Key="ButtonSolidSecondaryPointeroverBorderBrush" Color="#007BCA" />
-    <SolidColorBrush x:Key="ButtonSolidSecondaryPressedBorderBrush" Color="#0063A7" />
+    <SolidColorBrush x:Key="ButtonSolidSecondaryBorderBrush" Color="{DynamicResource SystemAccentColorLight1}" />
+    <SolidColorBrush x:Key="ButtonSolidSecondaryPointeroverBorderBrush" Color="{DynamicResource SystemAccentColorLight2}" />
+    <SolidColorBrush x:Key="ButtonSolidSecondaryPressedBorderBrush" Color="{DynamicResource SystemAccentColorLight3}" />
 
     <SolidColorBrush x:Key="ButtonSolidTertiaryBorderBrush" Color="#6B7075" />
     <SolidColorBrush x:Key="ButtonSolidTertiaryPointeroverBorderBrush" Color="#555B61" />

@@ -23,8 +23,8 @@
     <SolidColorBrush x:Key="ComboBoxItemBackground" Color="Transparent" />
     <SolidColorBrush x:Key="ComboBoxItemPointeroverBackground" Opacity="0.05" Color="#2E3238" />
     <SolidColorBrush x:Key="ComboBoxItemPressedBackground" Opacity="0.09" Color="#2E3238" />
-    <SolidColorBrush x:Key="ComboBoxItemSelectedBackground" Color="#EAF5FF" />
-    <SolidColorBrush x:Key="ComboBoxItemSelectedPointeroverBackground" Color="#CBE7FE" />
+    <SolidColorBrush x:Key="ComboBoxItemSelectedBackground" Opacity="0.7" Color="{DynamicResource SystemAccentColorLight3}" />
+    <SolidColorBrush x:Key="ComboBoxItemSelectedPointeroverBackground"  Opacity="0.8" Color="{DynamicResource SystemAccentColorLight3}" />
 
     <SolidColorBrush x:Key="ComboBoxItemDisabledBackground" Color="Transparent" />
     <SolidColorBrush x:Key="ComboBoxItemSelectedDisabledBackground" Opacity="0.02" Color="#2E3238" />
