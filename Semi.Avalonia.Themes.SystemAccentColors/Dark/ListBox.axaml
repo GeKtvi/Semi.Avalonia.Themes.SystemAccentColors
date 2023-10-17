@@ -46,7 +46,7 @@
     <SolidColorBrush x:Key="ListBoxItemRadioGroupButtonUncheckedForeground" Opacity="0.8" Color="#F9F9F9" />
     <SolidColorBrush x:Key="ListBoxItemRadioGroupButtonUncheckedPointeroverBackground" Opacity="0.16" Color="White" />
     <SolidColorBrush x:Key="ListBoxItemRadioGroupButtonUncheckedDisabledForeground" Opacity="0.35" Color="#F9F9F9" />
-    <SolidColorBrush x:Key="ListBoxItemRadioGroupButtonCheckedBackground" Color="#43444A" />
+    <SolidColorBrush x:Key="ListBoxItemRadioGroupButtonCheckedBackground" Color="#606060" />
     <SolidColorBrush x:Key="ListBoxItemRadioGroupButtonCheckedForeground" Color="{DynamicResource SystemAccentColor}" />
     <SolidColorBrush x:Key="ListBoxItemRadioGroupButtonCheckedDisabledForeground" Opacity="0.35" Color="#F9F9F9" />
 

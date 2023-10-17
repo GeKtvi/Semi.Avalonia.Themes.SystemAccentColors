@@ -32,7 +32,7 @@
     <SolidColorBrush x:Key="LabelTagLightOrangeBackground" Opacity="0.15" Color="#FFAE43" />
     <SolidColorBrush x:Key="LabelTagLightGreyForeground" Color="#E6E8EA" />
     <SolidColorBrush x:Key="LabelTagLightGreyBackground" Opacity="0.15" Color="#888D92" />
-    <SolidColorBrush x:Key="LabelTagLightWhiteBackground" Color="#4F5159" />
+    <SolidColorBrush x:Key="LabelTagLightWhiteBackground" Color="#707070" />
     <SolidColorBrush x:Key="LabelTagLightWhiteBorderBrush" Color="#41464C" />
     <SolidColorBrush x:Key="LabelTagLightWhiteForeground" Color="#F9F9F9" />
 
@@ -68,7 +68,7 @@
     <SolidColorBrush x:Key="LabelTagGhostOrangeForeground" Color="#FFAE43" />
     <SolidColorBrush x:Key="LabelTagGhostGreyBorderBrush" Color="#6B7075" />
     <SolidColorBrush x:Key="LabelTagGhostGreyForeground" Color="#888D92" />
-    <SolidColorBrush x:Key="LabelTagGhostWhiteBackground" Color="#4F5159" />
+    <SolidColorBrush x:Key="LabelTagGhostWhiteBackground" Color="#707070" />
     <SolidColorBrush x:Key="LabelTagGhostWhiteBorderBrush" Color="#41464C" />
     <SolidColorBrush x:Key="LabelTagGhostWhiteForeground" Color="#F9F9F9" />
 
@@ -90,7 +90,7 @@
     <SolidColorBrush x:Key="LabelTagSolidOrangeBackground" Color="#FFAE43" />
     <SolidColorBrush x:Key="LabelTagSolidGreyBackground" Color="#888D92" />
 
-    <SolidColorBrush x:Key="LabelTagSolidWhiteBackground" Color="#4F5159" />
+    <SolidColorBrush x:Key="LabelTagSolidWhiteBackground" Color="#707070" />
     <SolidColorBrush x:Key="LabelTagSolidWhiteBorderBrush" Color="#41464C" />
     <SolidColorBrush x:Key="LabelTagSolidWhiteForeground" Color="#F9F9F9" />
 </ResourceDictionary>

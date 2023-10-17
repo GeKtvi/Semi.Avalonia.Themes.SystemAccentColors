@@ -33,7 +33,7 @@
     <SolidColorBrush x:Key="RadioButtonButtonUncheckedForeground" Opacity="0.8" Color="#F9F9F9" />
     <SolidColorBrush x:Key="RadioButtonButtonUncheckedPointeroverBackground" Opacity="0.16" Color="White" />
     <SolidColorBrush x:Key="RadioButtonButtonUncheckedDisabledForeground" Opacity="0.35" Color="#F9F9F9" />
-    <SolidColorBrush x:Key="RadioButtonButtonCheckedBackground" Color="#43444A" />
+    <SolidColorBrush x:Key="RadioButtonButtonCheckedBackground" Color="#606060" />
     <SolidColorBrush x:Key="RadioButtonButtonCheckedForeground" Color="{DynamicResource SystemAccentColor}" />
     <SolidColorBrush x:Key="RadioButtonButtonCheckedDisabledForeground" Opacity="0.35" Color="#F9F9F9" />
 
