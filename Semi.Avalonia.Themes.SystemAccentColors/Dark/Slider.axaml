@@ -8,7 +8,7 @@
     <SolidColorBrush x:Key="SliderThumbPointeroverBorderBrush" Color="{DynamicResource SystemAccentColorLight1}" />
     <SolidColorBrush x:Key="SliderThumbPressedBorderBrush" Color="{DynamicResource SystemAccentColorLight2}" />
 
-    <SolidColorBrush x:Key="SliderTrackDisabledForeground" Color="#0A4694" />
-    <SolidColorBrush x:Key="SliderThumbDisabledBorderBrush" Color="#0A4694" />
+    <SolidColorBrush x:Key="SliderTrackDisabledForeground" Color="{DynamicResource SystemAccentColorDark3}" />
+    <SolidColorBrush x:Key="SliderThumbDisabledBorderBrush" Color="{DynamicResource SystemAccentColorDark3}" />
     <SolidColorBrush x:Key="SliderTrackDisabledBackground" Color="#1C1F23" />
 </ResourceDictionary>
