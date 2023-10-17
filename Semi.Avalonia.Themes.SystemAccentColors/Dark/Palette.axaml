@@ -461,11 +461,11 @@
     <SolidColorBrush x:Key="SemiColorLinkVisited" Color="{StaticResource SemiBlue5Color}" />
 
     <!--  Background  -->
-    <SolidColorBrush x:Key="SemiColorBackground0" Color="#FF16161A" />
-    <SolidColorBrush x:Key="SemiColorBackground1" Color="#FF232429" />
-    <SolidColorBrush x:Key="SemiColorBackground2" Color="#FF35363C" />
-    <SolidColorBrush x:Key="SemiColorBackground3" Color="#FF43444A" />
-    <SolidColorBrush x:Key="SemiColorBackground4" Color="#FF4F5159" />
+    <SolidColorBrush x:Key="SemiColorBackground0" Color="#FF202020" />
+    <SolidColorBrush x:Key="SemiColorBackground1" Color="#FF272727" />
+    <SolidColorBrush x:Key="SemiColorBackground2" Color="#FF474747" />
+    <SolidColorBrush x:Key="SemiColorBackground3" Color="#FF606060" />
+    <SolidColorBrush x:Key="SemiColorBackground4" Color="#FF707070" />
 
     <!--  Fill  -->
     <SolidColorBrush

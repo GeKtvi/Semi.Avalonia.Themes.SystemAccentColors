@@ -3,6 +3,11 @@
   <PropertyGroup>
     <TargetFrameworks>net6.0;netstandard2.0</TargetFrameworks>
     <AvaloniaVersion>11.0.0</AvaloniaVersion>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Description>A simple theme for Semi.Avalonia combined with AccentColors from Avalonia FluentTheme</Description>
+    <AssemblyVersion></AssemblyVersion>
+    <FileVersion></FileVersion>
+    <Version>0.0.1-alpha</Version>
   </PropertyGroup>
 
   <ItemGroup>
